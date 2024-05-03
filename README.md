@@ -15,6 +15,7 @@ To install the required python libraries, execute the following command in the t
   i. yarn
   
   ii. yarn run dev
+  
 4. Now open localhost server
 5. Then write your feelings and listen to songs according to your mood
 
